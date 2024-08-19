@@ -12,11 +12,13 @@ I am Ahmed, nice to meet you!
 
 ## Profile Stats 
 
-<div style="width: 100%;">
-  <div style="float: left; width: 45%;">
-    <img src="https://github-readme-stats.vercel.app/api?username=AhmedAlyElGhannam&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="Profile Stats" />
-  </div>
-  <div style="float: right; width: 45%;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedAlyElGhannam&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-  </div>
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=AhmedAlyElGhannam&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="Profile Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedAlyElGhannam&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
