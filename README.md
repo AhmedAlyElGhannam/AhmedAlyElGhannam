@@ -15,8 +15,15 @@ I am Ahmed, nice to meet you!
 
 ## Profile Stats 
 
-![](https://github-readme-stats.vercel.app/api?username=AhmedAlyElGhannam&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedAlyElGhannam&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=AhmedAlyElGhannam&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="Profile Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedAlyElGhannam&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
-[![](https://visitcount.itsvg.in/api?id=AhmedAlyElGhannam&icon=0&color=0)](https://visitcount.itsvg.in)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
