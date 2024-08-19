@@ -11,7 +11,7 @@ I am Ahmed, nice to meet you!
 
 - I am a Communications and Electronics Engineering graduate from the Faculty of Engineering Alexandria University, Egypt (Class 2024)
 - I am pursuing a career as an Embedded Software Engineer
-- You will find repos in my profile ranging from sheetsheets, all the way to large-scale embedded projects.
+- You will find repos in my profile ranging from cheatsheets, all the way to large-scale embedded projects.
 
 ### Visitors 
 
