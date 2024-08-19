@@ -14,11 +14,11 @@ I am Ahmed, nice to meet you!
 - You will find repos in my profile ranging from sheetsheets, all the way to large-scale embedded projects.
 - Feel Free to Reach Me @ [Linkedin]([https://www.linkedin.com/in/mahmoud-karem-zamel](https://www.linkedin.com/in/ahmedalyelghannam/)) or [Gmail](ahmedaly.g112@gmail.com)
 
-### ✨ Visitors 
+### Visitors 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mahmoud-Karem" alt="Mahmoud-Karem" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mahmoud-Karem" alt="AhmedAlyElGhannam" /> </p>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[![Ahmed's Github Stats](https://github-readme-stats.vercel.app/api?username=AhmedAlyElGhannam&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/AhmedAlyElGhannam/github-readme-stats)
 
-[![Ahmed's Github Stats](https://github-readme-stats.vercel.app/api?username=Mahmoud-Karem&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Mahmoud-Karem/github-readme-stats)
 
