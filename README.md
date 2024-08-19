@@ -1,6 +1,6 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
-# Greetings, Traveller From Beyond The Fog. Welcome to My Cozy Internet Corner!
+# Greetings, Traveller! Welcome to My Cozy Internet Corner!
 
 ## Introduction 
 
