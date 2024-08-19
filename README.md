@@ -12,7 +12,7 @@ I am Ahmed, nice to meet you!
 - I am a Communications and Electronics Engineering graduate from the Faculty of Engineering Alexandria University, Egypt (Class 2024)
 - I am pursuing a career as an Embedded Software Engineer
 - You will find repos in my profile ranging from sheetsheets, all the way to large-scale embedded projects.
-- Feel Free to Reach Me @ [Linkedin]([https://www.linkedin.com/in/mahmoud-karem-zamel](https://www.linkedin.com/in/ahmedalyelghannam/)) or [Gmail](ahmedaly.g112@gmail.com)
+- Feel Free to Reach Me @ [Linkedin](https://www.linkedin.com/in/mahmoud-karem-zamel](https://www.linkedin.com/in/ahmedalyelghannam/) or [Gmail](ahmedaly.g112@gmail.com)
 
 ### Visitors 
 
