@@ -1,11 +1,11 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
-<h2> Greetings, Traveller! Welcome to my Cozy Internet Corner!</h2>
+# Greetings, Traveller From Beyond The Fog. Welcome to My Cozy Internet Corner!
 
 <img width="200" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
 
-<h3> &nbsp;Introduction</h3>
+## Introduction 
 
 I am Ahmed, nice to meet you!
 
@@ -13,12 +13,10 @@ I am Ahmed, nice to meet you!
 - I am pursuing a career as an Embedded Software Engineer
 - You will find repos in my profile ranging from cheatsheets, all the way to large-scale embedded projects.
 
-### Visitors 
+## Profile Stats 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mahmoud-Karem" alt="AhmedAlyElGhannam" /> </p>
+![](https://github-readme-stats.vercel.app/api?username=AhmedAlyElGhannam&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedAlyElGhannam&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+[![](https://visitcount.itsvg.in/api?id=AhmedAlyElGhannam&icon=0&color=0)](https://visitcount.itsvg.in)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[![Ahmed's Github Stats](https://github-readme-stats.vercel.app/api?username=AhmedAlyElGhannam&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/AhmedAlyElGhannam/github-readme-stats)
-
- ![Ahmed's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedAlyElGhannam&hide=javascript,css,scss,html&theme=tokyonight)
-
