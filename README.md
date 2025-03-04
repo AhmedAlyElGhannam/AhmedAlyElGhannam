@@ -7,7 +7,8 @@
 I am Ahmed, nice to meet you!
 
 - I am an ECE graduate from the Faculty of Engineering Alexandria University, Egypt (Class 2024)
-- I am pursuing a career as an Embedded Software Engineer
+- I am pursuing a career as an Embedded Software Engineer.
+- Currently, I am a student in Information Technology Institute (ITI)'s esteemed 9-Months Embedded Systems Professional Training Program.
 - You will find repos in my profile ranging from cheatsheets, all the way to large-scale embedded projects.
 
 ## Profile Stats 
