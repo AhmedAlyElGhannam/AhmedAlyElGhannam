@@ -7,9 +7,11 @@
 I am Ahmed, nice to meet you!
 
 - I am an ECE graduate from the Faculty of Engineering Alexandria University, Egypt (Class 2024)
-- I am pursuing a career as an Embedded Software Engineer.
-- Currently, I am a student in Information Technology Institute (ITI)'s esteemed 9-Months Embedded Systems Professional Training Program.
+- I had finished my Professional Training Program in Information Technology Institute (ITI)'s esteemed 9-Months Embedded Systems Track. 
 - You will find repos in my profile ranging from cheatsheets, all the way to large-scale embedded projects.
+
+## Highlights
+[![OpenAI Logo](https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg)](https://openai.com)
 
 ## Profile Stats 
 
