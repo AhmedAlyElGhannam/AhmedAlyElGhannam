@@ -18,6 +18,13 @@ I am Ahmed, nice to meet you!
   </a>
 </p>
 
+### About Coda
+Coda is a multi-ECU system featuring two screens—for both Instrument Cluster & IVI, road sign detection, a voice assistant, safe distance detection, and intuitive UI that elevates a driver’s experience to a new level. Coda comprises of 4 main nodes:
+* Baremetal Node: responsible for direct hardware interfacing for determining doors states, car speed and rpm, and ultrasonic sensors for safe-distance. These readings are sent via CAN. This ECU is based on the NXP S32K148-Q176.
+* Detection Node: responsible for detecting road signs from a predefined selection while on the road. The detection model is a YOLOv8 nano model that was trained on a set of road signs. The detected signs are published to the Cluster Node via a CommonAPI service based on vSOME/IP. This ECU is based on NVIDIA Jetson Nano Developer's Kit running a custom Yocto distro.
+* Cluster Node: responsible for running the Instrument Cluster app on the first screen and routing CAN traffic towards the IVI Node. The Instrument Cluster app is built using Qt6 framework. The app displays some of the incoming data from CAN and forwards the rest to the IVI Node via a CommonAPI service based on vSOME/IP. This ECU is based on Raspberry Pi 5 16GB running a custom Yocto distro.
+* IVI Node: responsible for running the IVI app on the second screen in addition to a Voice Assistant app complying with Google's guidelines for development. The incoming data from Cluster Node is received via a CommonAPI service based on vSOME/IP; this service transfers the readings to the application layer through an AIDL contract that is used for registering callbacks in the application layer. Coda's Voice Assistant features wake word detection and multiply commands.
+
 ## Profile Stats 
 
 <table>
