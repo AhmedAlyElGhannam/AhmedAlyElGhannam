@@ -14,7 +14,7 @@ I am Ahmed, nice to meet you!
 ## ITI Graduation Project
 <p align="center">
   <a href="https://github.com/Coda-ITI">
-    <img src="./coda.png" width="600"/>
+    <img src="./coda.png" width="350"/>
   </a>
 </p>
 
