@@ -12,7 +12,11 @@ I am Ahmed, nice to meet you!
 - Currently, I work as a Software Engineer @ CairoMotive.
 
 ## ITI Graduation Project
-[![Coda: A Digital Cockpit](./coda.png)](https://github.com/Coda-ITI)
+<p align="center">
+  <a href="https://github.com/Coda-ITI">
+    <img src="./coda.png" width="600"/>
+  </a>
+</p>
 
 ## Profile Stats 
 
