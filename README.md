@@ -11,7 +11,7 @@ I am Ahmed, nice to meet you!
 - You will find repos in my profile ranging from cheatsheets, all the way to large-scale embedded projects.
 - Currently, I work as a Software Engineer @ CairoMotive.
 
-## ITI Graduation Project
+## Graduation Project---Coda: A Digital Cockpit
 <p align="center">
   <a href="https://github.com/Coda-ITI">
     <img src="./coda.png" width="350"/>
